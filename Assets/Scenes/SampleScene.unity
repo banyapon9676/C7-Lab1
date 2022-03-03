@@ -816,7 +816,7 @@ MonoBehaviour:
       m_PersistentCalls:
         m_Calls:
         - m_Target: {fileID: 352235915}
-          m_MethodName: getRed
+          m_MethodName: getBlack
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
@@ -907,7 +907,7 @@ MonoBehaviour:
       m_PersistentCalls:
         m_Calls:
         - m_Target: {fileID: 559584853}
-          m_MethodName: getRed
+          m_MethodName: getBlack
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
@@ -1164,7 +1164,7 @@ MonoBehaviour:
       m_PersistentCalls:
         m_Calls:
         - m_Target: {fileID: 806803789}
-          m_MethodName: getRed
+          m_MethodName: getBlack
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
@@ -1436,7 +1436,7 @@ MonoBehaviour:
       m_PersistentCalls:
         m_Calls:
         - m_Target: {fileID: 1128101041}
-          m_MethodName: getRed
+          m_MethodName: getBlack
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
